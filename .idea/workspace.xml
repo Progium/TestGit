@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000f2a21-4ea5-406c-9a83-898e012a3a3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IniciarSesion2.txt" afterPath="$PROJECT_DIR$/IniciarSesion2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IniciarSesion.txt" afterPath="$PROJECT_DIR$/IniciarSesion.txt" />
     </list>
     <ignored path="TestGit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +28,13 @@
       <file leaf-file-name="IniciarSesion2.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IniciarSesion2.txt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.087403595" vertical-offset="0" max-vertical-offset="389">
               <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="389">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> parent of e70dfb8... 11111111111
               <folding />
             </state>
           </provider>
@@ -59,7 +64,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/IniciarSesion.txt" />
-        <option value="$PROJECT_DIR$/IniciarSesion2.txt" />
       </list>
     </option>
   </component>
@@ -247,8 +251,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IniciarSesion2.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.087403595" vertical-offset="0" max-vertical-offset="389">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> parent of e70dfb8... 11111111111
           <folding />
         </state>
       </provider>
